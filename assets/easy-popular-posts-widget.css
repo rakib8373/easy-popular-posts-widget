@@ -1,0 +1,21 @@
+aside.widget_raeppw_popular_posts ul{
+	list-style: none;
+}
+
+aside.widget_raeppw_popular_posts ul li{
+	margin-bottom: 15px;
+}
+
+.eye{
+	background-image: url("images/eye.png");
+	background-position: 0 1px;
+	background-repeat: no-repeat;
+	padding-left: 30px;
+}
+
+.comment{
+	background-image: url("images/comments.png");
+	background-position: 0 1px;
+	background-repeat: no-repeat;
+	padding-left: 30px;	
+}
